@@ -1,5 +1,5 @@
 ---
-title: "Example Reference"
+title: 🛌 Survival
 description: A reference page in my new Starlight docs site.
 ---
 

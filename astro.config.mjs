@@ -3,7 +3,7 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://louisescher.github.io',
+  site: 'https://wiki.dynamiccraft.xyz/',
   base: '/',
   integrations: [starlight({
     title: 'DynamicCraft WiKi 📕',
@@ -11,7 +11,7 @@ export default defineConfig({
       src: './src/assets/dynamiccraft-logo.png'
     },
     social: {
-      github: 'https://github.com/Sigmakib2/DynamicCraft-Doc'
+      github: 'https://github.com/DynamicCraft-Bangladesh/DynamicCraft-WiKi'
     },
     sidebar: [
     {
