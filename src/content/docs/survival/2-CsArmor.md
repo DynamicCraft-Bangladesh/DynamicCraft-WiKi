@@ -15,3 +15,5 @@ THIS WAS NOT GOOD
 <img src="/Screenshot (42).png" alt="drawing" width="300"/>
 <img src="/Screenshot (42).png" alt="drawing" width="200"/>
 
+Welcome to dynamic
+
