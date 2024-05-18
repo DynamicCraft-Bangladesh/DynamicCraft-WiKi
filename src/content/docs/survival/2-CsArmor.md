@@ -7,6 +7,7 @@ description: A guide in my new Starlight docs site.
 In Dynamic
 
 You can find custom armor 
+THIS WAS NOT GOOD
 
 ![Armor (FD)](/Screenshot%20(42).png) 
 
