@@ -15,7 +15,7 @@ hfdkhjhglkdsjfgdfkj
 
 __test3__
 
-![Nitro (Pink Diamond)](/pic.png)
+![Nitro (Pink Diamond)](/Image/pic.png)
 
 hi
 
