@@ -7,7 +7,7 @@ Reference pages are ideal for outlining how things work in terse and clear terms
 Less concerned with telling a story or addressing a specific use case, they should give a comprehensive outline of what you're documenting.
 
 <p align="center">
-  <img src="/public/Image/dcbd.gif" alt="DC image" style="width:350px;height:350px;"/>
+  <img src="/dcbd.gif" alt="DC image" style="width:350px;height:350px;"/>
 </p>
 
 ## Further reading
