@@ -14,7 +14,7 @@ Less concerned with telling a story or addressing a specific use case, they shou
 # Eternal Blade
 
 ## Overview
-The **<span style="color:#FFD700">Eternal Blade</span>** is a legendary sword in the game, known for its immense power and unique abilities. It is a highly sought-after weapon, especially favored by high-level players for its unparalleled damage and special effects.
+The **<span style="color:#084CFB">Eternal Blade</span>** is a legendary sword in the game, known for its immense power and unique abilities. It is a highly sought-after weapon, especially favored by high-level players for its unparalleled damage and special effects.
 
 ## Item Stats
 <table>
